@@ -3,8 +3,6 @@
 >Status do projeto: Em desenvolvimento 
 
 Para rodar esse projeto é necessário usar:
-
 ```
 node.app js
-
 ```
